@@ -1,4 +1,7 @@
 # my-type
+```
+Simple type test
+```
 
 ## Project setup
 ```
